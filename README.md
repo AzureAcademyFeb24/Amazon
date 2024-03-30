@@ -1,1 +1,1 @@
-This is the information about git/gitlab
+This is the information about git/gitlab amazon project
